@@ -1,0 +1,12 @@
+D:\dip_3\Diplom_3\src\test\java\praktikum\Config.java
+D:\dip_3\Diplom_3\src\test\java\praktikum\DriverRule.java
+D:\dip_3\Diplom_3\src\test\java\praktikum\pages\LoginForm.java
+D:\dip_3\Diplom_3\src\test\java\praktikum\pages\MainPage.java
+D:\dip_3\Diplom_3\src\test\java\praktikum\pages\PasswordRecoveryPage.java
+D:\dip_3\Diplom_3\src\test\java\praktikum\pages\RegisterPage.java
+D:\dip_3\Diplom_3\src\test\java\praktikum\pages\UserProfilePage.java
+D:\dip_3\Diplom_3\src\test\java\praktikum\tests\AccountCreationTests.java
+D:\dip_3\Diplom_3\src\test\java\praktikum\tests\ConstructorNavigationTests.java
+D:\dip_3\Diplom_3\src\test\java\praktikum\tests\UnauthenticatedTests.java
+D:\dip_3\Diplom_3\src\test\java\praktikum\tests\UserLoginTests.java
+D:\dip_3\Diplom_3\src\test\java\praktikum\tests\UserNavigationTests.java

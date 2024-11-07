@@ -1,0 +1,8 @@
+praktikum\jsons\CreateUserRequestJson.class
+praktikum\jsons\generators\UserJsonCreator.class
+praktikum\jsons\UserRequestJson.class
+praktikum\Check.class
+praktikum\Constants.class
+praktikum\rests\UserRests.class
+praktikum\rests\RestCore.class
+praktikum\jsons\generators\UserLoginJsonGenerator.class

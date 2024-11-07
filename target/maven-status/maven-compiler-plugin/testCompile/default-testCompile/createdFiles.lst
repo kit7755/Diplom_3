@@ -1,0 +1,12 @@
+praktikum\pages\RegisterPage.class
+praktikum\pages\PasswordRecoveryPage.class
+praktikum\DriverRule.class
+praktikum\Config.class
+praktikum\pages\MainPage.class
+praktikum\pages\LoginForm.class
+praktikum\pages\UserProfilePage.class
+praktikum\tests\ConstructorNavigationTests.class
+praktikum\tests\UserLoginTests.class
+praktikum\tests\AccountCreationTests.class
+praktikum\tests\UnauthenticatedTests.class
+praktikum\tests\UserNavigationTests.class
